@@ -215,7 +215,7 @@ int main(int argc, char **argv)
                 printbal();
                 break;
             case 'h':
-                system("less info.txt");
+                system("less README.md");
                 break;
             case 't':
                 initcalc(two);
